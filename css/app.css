@@ -45,6 +45,9 @@ header {
   background-color:#95a5a6;
 }
 
+.btn {
+  border-radius: 0px;
+}
 .btn:focus {
     border-color: #cccccc;
     -webkit-box-shadow: none;

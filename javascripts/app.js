@@ -65,7 +65,7 @@ $(document).ready(function(){
                             "<div class='contact-item contact-number'>", newContact.number, "</div>",
           
                             "<div class='contact-actions'>",
-                              "<span class='edit btn btn-action'>Edit</span>",
+                              "<span class='edit btn btn-action'>Edit</span> ",
                             
                               "<span class='delete btn btn-action'>Delete</span>",
                             "</div>",
